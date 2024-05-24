@@ -1,0 +1,8 @@
+pandas
+sklearn
+matplotlib
+numpy
+imblearn
+pgmpy
+networkx
+pyswip
